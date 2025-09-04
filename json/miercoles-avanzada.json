@@ -62,14 +62,7 @@
     "actividad": "Android Studio",
     "url": "https://github.com/MariaAlmario/SIMON_DICE"
   },
-  {
-  "nombreapp": "Conversor de Unidades",
-    "descripcion": "Puedes convertir diferentes unidades de medida como: Longitud, temperatura y moneda. Muy útil para estudiantes o profesionales que necesiten realizar conversiones rápidas y precisas.",
-    "icono": "https://cdn-icons-png.flaticon.com/512/3310/3310608.png",
-    "integrantes": ["María Paula Almario", "Maicol López"],
-    "actividad": "Capacitor y expo",
-    "url": "https://drive.google.com/file/d/11xmHmha61PSpMxw3wxq3GkdCCmu4V3QE/view?usp=drive_link"
-  },
+  
   {
     "nombreapp": "MOTOS",
     "descripcion": "Es una página que permite mostrar motocicletas según marca, modelo y opcionalmente año. Devuelve hasta 30 resultados de motos de categoría ninja.",
